@@ -1,0 +1,90 @@
+{
+  "sailings": {
+    "fields": [
+      "id",
+      "route",
+      "day",
+      "ship",
+      "position_device",
+      "pier",
+      "depart",
+      "sailed"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "berth": {
+    "fields": [
+      "id",
+      "sailing",
+      "event",
+      "minute",
+      "seen"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "positions": {
+    "fields": [
+      "id",
+      "day",
+      "device",
+      "minute",
+      "section",
+      "knots"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "tickets": {
+    "fields": [
+      "id",
+      "legs",
+      "seats",
+      "refunded",
+      "issued"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "zones": {
+    "fields": [
+      "section",
+      "from",
+      "to",
+      "activity",
+      "capacity_group"
+    ],
+    "key": [
+      "section",
+      "from"
+    ]
+  },
+  "traffic": {
+    "fields": [
+      "day",
+      "load",
+      "restrictions"
+    ],
+    "key": [
+      "day"
+    ]
+  },
+  "advice": {
+    "fields": [
+      "id",
+      "route",
+      "slot",
+      "old_min",
+      "old_max",
+      "published"
+    ],
+    "key": [
+      "id"
+    ]
+  }
+}

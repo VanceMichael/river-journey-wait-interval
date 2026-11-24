@@ -1,0 +1,142 @@
+[
+  {
+    "day": "2026-05-01",
+    "load": "ordinary",
+    "restrictions": "open"
+  },
+  {
+    "day": "2026-05-02",
+    "load": "ordinary",
+    "restrictions": "open"
+  },
+  {
+    "day": "2026-05-03",
+    "load": "ordinary",
+    "restrictions": "open"
+  },
+  {
+    "day": "2026-05-04",
+    "load": "ordinary",
+    "restrictions": "open"
+  },
+  {
+    "day": "2026-05-05",
+    "load": "peak",
+    "restrictions": "open"
+  },
+  {
+    "day": "2026-05-06",
+    "load": "peak",
+    "restrictions": "open"
+  },
+  {
+    "day": "2026-05-07",
+    "load": "peak",
+    "restrictions": "open"
+  },
+  {
+    "day": "2026-05-08",
+    "load": "ordinary",
+    "restrictions": "open"
+  },
+  {
+    "day": "2026-05-09",
+    "load": "ordinary",
+    "restrictions": "one-way"
+  },
+  {
+    "day": "2026-05-10",
+    "load": "ordinary",
+    "restrictions": "open"
+  },
+  {
+    "day": "2026-05-11",
+    "load": "ordinary",
+    "restrictions": "open"
+  },
+  {
+    "day": "2026-05-12",
+    "load": "peak",
+    "restrictions": "open"
+  },
+  {
+    "day": "2026-05-13",
+    "load": "peak",
+    "restrictions": "open"
+  },
+  {
+    "day": "2026-05-14",
+    "load": "peak",
+    "restrictions": "open"
+  },
+  {
+    "day": "2026-05-15",
+    "load": "ordinary",
+    "restrictions": "open"
+  },
+  {
+    "day": "2026-05-16",
+    "load": "ordinary",
+    "restrictions": "open"
+  },
+  {
+    "day": "2026-05-17",
+    "load": "ordinary",
+    "restrictions": "one-way"
+  },
+  {
+    "day": "2026-05-18",
+    "load": "ordinary",
+    "restrictions": "open"
+  },
+  {
+    "day": "2026-05-19",
+    "load": "peak",
+    "restrictions": "open"
+  },
+  {
+    "day": "2026-05-20",
+    "load": "peak",
+    "restrictions": "open"
+  },
+  {
+    "day": "2026-05-21",
+    "load": "peak",
+    "restrictions": "open"
+  },
+  {
+    "day": "2026-05-22",
+    "load": "ordinary",
+    "restrictions": "open"
+  },
+  {
+    "day": "2026-05-23",
+    "load": "ordinary",
+    "restrictions": "open"
+  },
+  {
+    "day": "2026-05-24",
+    "load": "ordinary",
+    "restrictions": "open"
+  },
+  {
+    "day": "2026-05-25",
+    "load": "ordinary",
+    "restrictions": "one-way"
+  },
+  {
+    "day": "2026-05-26",
+    "load": "peak",
+    "restrictions": "open"
+  },
+  {
+    "day": "2026-05-27",
+    "load": "peak",
+    "restrictions": "open"
+  },
+  {
+    "day": "2026-05-28",
+    "load": "peak",
+    "restrictions": "open"
+  }
+]

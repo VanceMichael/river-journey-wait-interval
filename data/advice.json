@@ -1,0 +1,26 @@
+[
+  {
+    "id": "v0",
+    "route": "a",
+    "slot": "morning",
+    "old_min": 80,
+    "old_max": 141,
+    "published": "2026-05-10"
+  },
+  {
+    "id": "v1",
+    "route": "b",
+    "slot": "noon",
+    "old_min": 92,
+    "old_max": 167,
+    "published": "2026-05-10"
+  },
+  {
+    "id": "v2",
+    "route": "c",
+    "slot": "afternoon",
+    "old_min": 101,
+    "old_max": 154,
+    "published": "2026-05-10"
+  }
+]

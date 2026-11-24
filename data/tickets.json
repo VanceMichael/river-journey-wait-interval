@@ -1,0 +1,1038 @@
+[
+  {
+    "id": "t-a00",
+    "legs": [
+      "a00"
+    ],
+    "seats": 11,
+    "refunded": 0,
+    "issued": "2026-05-01"
+  },
+  {
+    "id": "t-b00",
+    "legs": [
+      "b00"
+    ],
+    "seats": 12,
+    "refunded": 0,
+    "issued": "2026-05-01"
+  },
+  {
+    "id": "t-c00",
+    "legs": [
+      "c00"
+    ],
+    "seats": 13,
+    "refunded": 0,
+    "issued": "2026-05-01"
+  },
+  {
+    "id": "x-00",
+    "legs": [
+      "a00",
+      "b00"
+    ],
+    "seats": 5,
+    "refunded": 0,
+    "issued": "2026-05-01"
+  },
+  {
+    "id": "t-a01",
+    "legs": [
+      "a01"
+    ],
+    "seats": 14,
+    "refunded": 0,
+    "issued": "2026-05-02"
+  },
+  {
+    "id": "t-b01",
+    "legs": [
+      "b01"
+    ],
+    "seats": 15,
+    "refunded": 0,
+    "issued": "2026-05-02"
+  },
+  {
+    "id": "t-c01",
+    "legs": [
+      "c01"
+    ],
+    "seats": 16,
+    "refunded": 0,
+    "issued": "2026-05-02"
+  },
+  {
+    "id": "x-01",
+    "legs": [
+      "a01",
+      "b01"
+    ],
+    "seats": 12,
+    "refunded": 0,
+    "issued": "2026-05-02"
+  },
+  {
+    "id": "t-a02",
+    "legs": [
+      "a02"
+    ],
+    "seats": 17,
+    "refunded": 0,
+    "issued": "2026-05-03"
+  },
+  {
+    "id": "t-b02",
+    "legs": [
+      "b02"
+    ],
+    "seats": 18,
+    "refunded": 0,
+    "issued": "2026-05-03"
+  },
+  {
+    "id": "t-c02",
+    "legs": [
+      "c02"
+    ],
+    "seats": 19,
+    "refunded": 0,
+    "issued": "2026-05-03"
+  },
+  {
+    "id": "x-02",
+    "legs": [
+      "a02",
+      "b02"
+    ],
+    "seats": 5,
+    "refunded": 0,
+    "issued": "2026-05-03"
+  },
+  {
+    "id": "t-a03",
+    "legs": [
+      "a03"
+    ],
+    "seats": 20,
+    "refunded": 0,
+    "issued": "2026-05-04"
+  },
+  {
+    "id": "t-b03",
+    "legs": [
+      "b03"
+    ],
+    "seats": 21,
+    "refunded": 3,
+    "issued": "2026-05-04"
+  },
+  {
+    "id": "t-c03",
+    "legs": [
+      "c03"
+    ],
+    "seats": 22,
+    "refunded": 0,
+    "issued": "2026-05-04"
+  },
+  {
+    "id": "x-03",
+    "legs": [
+      "a03",
+      "b03"
+    ],
+    "seats": 12,
+    "refunded": 0,
+    "issued": "2026-05-04"
+  },
+  {
+    "id": "t-a04",
+    "legs": [
+      "a04"
+    ],
+    "seats": 11,
+    "refunded": 0,
+    "issued": "2026-05-05"
+  },
+  {
+    "id": "t-b04",
+    "legs": [
+      "b04"
+    ],
+    "seats": 12,
+    "refunded": 0,
+    "issued": "2026-05-05"
+  },
+  {
+    "id": "t-c04",
+    "legs": [
+      "c04"
+    ],
+    "seats": 13,
+    "refunded": 0,
+    "issued": "2026-05-05"
+  },
+  {
+    "id": "x-04",
+    "legs": [
+      "a04",
+      "b04"
+    ],
+    "seats": 5,
+    "refunded": 0,
+    "issued": "2026-05-05"
+  },
+  {
+    "id": "t-a05",
+    "legs": [
+      "a05"
+    ],
+    "seats": 14,
+    "refunded": 0,
+    "issued": "2026-05-06"
+  },
+  {
+    "id": "t-b05",
+    "legs": [
+      "b05"
+    ],
+    "seats": 15,
+    "refunded": 0,
+    "issued": "2026-05-06"
+  },
+  {
+    "id": "t-c05",
+    "legs": [
+      "c05"
+    ],
+    "seats": 16,
+    "refunded": 0,
+    "issued": "2026-05-06"
+  },
+  {
+    "id": "x-05",
+    "legs": [
+      "a05",
+      "b05"
+    ],
+    "seats": 12,
+    "refunded": 0,
+    "issued": "2026-05-06"
+  },
+  {
+    "id": "t-a06",
+    "legs": [
+      "a06"
+    ],
+    "seats": 17,
+    "refunded": 0,
+    "issued": "2026-05-07"
+  },
+  {
+    "id": "t-b06",
+    "legs": [
+      "b06"
+    ],
+    "seats": 18,
+    "refunded": 0,
+    "issued": "2026-05-07"
+  },
+  {
+    "id": "t-c06",
+    "legs": [
+      "c06"
+    ],
+    "seats": 19,
+    "refunded": 0,
+    "issued": "2026-05-07"
+  },
+  {
+    "id": "x-06",
+    "legs": [
+      "a06",
+      "b06"
+    ],
+    "seats": 5,
+    "refunded": 0,
+    "issued": "2026-05-07"
+  },
+  {
+    "id": "t-a07",
+    "legs": [
+      "a07"
+    ],
+    "seats": 20,
+    "refunded": 0,
+    "issued": "2026-05-08"
+  },
+  {
+    "id": "t-b07",
+    "legs": [
+      "b07"
+    ],
+    "seats": 21,
+    "refunded": 0,
+    "issued": "2026-05-08"
+  },
+  {
+    "id": "t-c07",
+    "legs": [
+      "c07"
+    ],
+    "seats": 22,
+    "refunded": 0,
+    "issued": "2026-05-08"
+  },
+  {
+    "id": "x-07",
+    "legs": [
+      "a07",
+      "b07"
+    ],
+    "seats": 12,
+    "refunded": 0,
+    "issued": "2026-05-08"
+  },
+  {
+    "id": "t-a08",
+    "legs": [
+      "a08"
+    ],
+    "seats": 11,
+    "refunded": 0,
+    "issued": "2026-05-09"
+  },
+  {
+    "id": "t-b08",
+    "legs": [
+      "b08"
+    ],
+    "seats": 12,
+    "refunded": 0,
+    "issued": "2026-05-09"
+  },
+  {
+    "id": "t-c08",
+    "legs": [
+      "c08"
+    ],
+    "seats": 13,
+    "refunded": 0,
+    "issued": "2026-05-09"
+  },
+  {
+    "id": "x-08",
+    "legs": [
+      "a08",
+      "b08"
+    ],
+    "seats": 5,
+    "refunded": 0,
+    "issued": "2026-05-09"
+  },
+  {
+    "id": "t-a09",
+    "legs": [
+      "a09"
+    ],
+    "seats": 14,
+    "refunded": 0,
+    "issued": "2026-05-10"
+  },
+  {
+    "id": "t-b09",
+    "legs": [
+      "b09"
+    ],
+    "seats": 15,
+    "refunded": 0,
+    "issued": "2026-05-10"
+  },
+  {
+    "id": "t-c09",
+    "legs": [
+      "c09"
+    ],
+    "seats": 16,
+    "refunded": 0,
+    "issued": "2026-05-10"
+  },
+  {
+    "id": "x-09",
+    "legs": [
+      "a09",
+      "b09"
+    ],
+    "seats": 12,
+    "refunded": 0,
+    "issued": "2026-05-10"
+  },
+  {
+    "id": "t-a10",
+    "legs": [
+      "a10"
+    ],
+    "seats": 17,
+    "refunded": 0,
+    "issued": "2026-05-11"
+  },
+  {
+    "id": "t-b10",
+    "legs": [
+      "b10"
+    ],
+    "seats": 18,
+    "refunded": 0,
+    "issued": "2026-05-11"
+  },
+  {
+    "id": "t-c10",
+    "legs": [
+      "c10"
+    ],
+    "seats": 19,
+    "refunded": 0,
+    "issued": "2026-05-11"
+  },
+  {
+    "id": "x-10",
+    "legs": [
+      "a10",
+      "b10"
+    ],
+    "seats": 5,
+    "refunded": 0,
+    "issued": "2026-05-11"
+  },
+  {
+    "id": "t-a11",
+    "legs": [
+      "a11"
+    ],
+    "seats": 20,
+    "refunded": 0,
+    "issued": "2026-05-12"
+  },
+  {
+    "id": "t-b11",
+    "legs": [
+      "b11"
+    ],
+    "seats": 21,
+    "refunded": 0,
+    "issued": "2026-05-12"
+  },
+  {
+    "id": "t-c11",
+    "legs": [
+      "c11"
+    ],
+    "seats": 22,
+    "refunded": 0,
+    "issued": "2026-05-12"
+  },
+  {
+    "id": "x-11",
+    "legs": [
+      "a11",
+      "b11"
+    ],
+    "seats": 12,
+    "refunded": 0,
+    "issued": "2026-05-12"
+  },
+  {
+    "id": "t-a12",
+    "legs": [
+      "a12"
+    ],
+    "seats": 11,
+    "refunded": 0,
+    "issued": "2026-05-13"
+  },
+  {
+    "id": "t-b12",
+    "legs": [
+      "b12"
+    ],
+    "seats": 12,
+    "refunded": 0,
+    "issued": "2026-05-13"
+  },
+  {
+    "id": "t-c12",
+    "legs": [
+      "c12"
+    ],
+    "seats": 13,
+    "refunded": 0,
+    "issued": "2026-05-13"
+  },
+  {
+    "id": "x-12",
+    "legs": [
+      "a12",
+      "b12"
+    ],
+    "seats": 5,
+    "refunded": 0,
+    "issued": "2026-05-13"
+  },
+  {
+    "id": "t-a13",
+    "legs": [
+      "a13"
+    ],
+    "seats": 14,
+    "refunded": 0,
+    "issued": "2026-05-14"
+  },
+  {
+    "id": "t-b13",
+    "legs": [
+      "b13"
+    ],
+    "seats": 15,
+    "refunded": 0,
+    "issued": "2026-05-14"
+  },
+  {
+    "id": "t-c13",
+    "legs": [
+      "c13"
+    ],
+    "seats": 16,
+    "refunded": 0,
+    "issued": "2026-05-14"
+  },
+  {
+    "id": "x-13",
+    "legs": [
+      "a13",
+      "b13"
+    ],
+    "seats": 12,
+    "refunded": 0,
+    "issued": "2026-05-14"
+  },
+  {
+    "id": "t-a14",
+    "legs": [
+      "a14"
+    ],
+    "seats": 17,
+    "refunded": 0,
+    "issued": "2026-05-15"
+  },
+  {
+    "id": "t-b14",
+    "legs": [
+      "b14"
+    ],
+    "seats": 18,
+    "refunded": 0,
+    "issued": "2026-05-15"
+  },
+  {
+    "id": "t-c14",
+    "legs": [
+      "c14"
+    ],
+    "seats": 19,
+    "refunded": 0,
+    "issued": "2026-05-15"
+  },
+  {
+    "id": "x-14",
+    "legs": [
+      "a14",
+      "b14"
+    ],
+    "seats": 5,
+    "refunded": 0,
+    "issued": "2026-05-15"
+  },
+  {
+    "id": "t-a15",
+    "legs": [
+      "a15"
+    ],
+    "seats": 20,
+    "refunded": 0,
+    "issued": "2026-05-16"
+  },
+  {
+    "id": "t-b15",
+    "legs": [
+      "b15"
+    ],
+    "seats": 21,
+    "refunded": 0,
+    "issued": "2026-05-16"
+  },
+  {
+    "id": "t-c15",
+    "legs": [
+      "c15"
+    ],
+    "seats": 22,
+    "refunded": 0,
+    "issued": "2026-05-16"
+  },
+  {
+    "id": "x-15",
+    "legs": [
+      "a15",
+      "b15"
+    ],
+    "seats": 12,
+    "refunded": 0,
+    "issued": "2026-05-16"
+  },
+  {
+    "id": "t-a16",
+    "legs": [
+      "a16"
+    ],
+    "seats": 11,
+    "refunded": 0,
+    "issued": "2026-05-17"
+  },
+  {
+    "id": "t-b16",
+    "legs": [
+      "b16"
+    ],
+    "seats": 12,
+    "refunded": 0,
+    "issued": "2026-05-17"
+  },
+  {
+    "id": "t-c16",
+    "legs": [
+      "c16"
+    ],
+    "seats": 13,
+    "refunded": 0,
+    "issued": "2026-05-17"
+  },
+  {
+    "id": "x-16",
+    "legs": [
+      "a16",
+      "b16"
+    ],
+    "seats": 5,
+    "refunded": 0,
+    "issued": "2026-05-17"
+  },
+  {
+    "id": "t-a17",
+    "legs": [
+      "a17"
+    ],
+    "seats": 14,
+    "refunded": 0,
+    "issued": "2026-05-18"
+  },
+  {
+    "id": "t-b17",
+    "legs": [
+      "b17"
+    ],
+    "seats": 15,
+    "refunded": 0,
+    "issued": "2026-05-18"
+  },
+  {
+    "id": "t-c17",
+    "legs": [
+      "c17"
+    ],
+    "seats": 16,
+    "refunded": 0,
+    "issued": "2026-05-18"
+  },
+  {
+    "id": "x-17",
+    "legs": [
+      "a17",
+      "b17"
+    ],
+    "seats": 12,
+    "refunded": 0,
+    "issued": "2026-05-18"
+  },
+  {
+    "id": "t-a18",
+    "legs": [
+      "a18"
+    ],
+    "seats": 17,
+    "refunded": 0,
+    "issued": "2026-05-19"
+  },
+  {
+    "id": "t-b18",
+    "legs": [
+      "b18"
+    ],
+    "seats": 18,
+    "refunded": 0,
+    "issued": "2026-05-19"
+  },
+  {
+    "id": "t-c18",
+    "legs": [
+      "c18"
+    ],
+    "seats": 19,
+    "refunded": 0,
+    "issued": "2026-05-19"
+  },
+  {
+    "id": "x-18",
+    "legs": [
+      "a18",
+      "b18"
+    ],
+    "seats": 5,
+    "refunded": 0,
+    "issued": "2026-05-19"
+  },
+  {
+    "id": "t-a19",
+    "legs": [
+      "a19"
+    ],
+    "seats": 20,
+    "refunded": 0,
+    "issued": "2026-05-20"
+  },
+  {
+    "id": "t-b19",
+    "legs": [
+      "b19"
+    ],
+    "seats": 21,
+    "refunded": 0,
+    "issued": "2026-05-20"
+  },
+  {
+    "id": "t-c19",
+    "legs": [
+      "c19"
+    ],
+    "seats": 22,
+    "refunded": 0,
+    "issued": "2026-05-20"
+  },
+  {
+    "id": "x-19",
+    "legs": [
+      "a19",
+      "b19"
+    ],
+    "seats": 12,
+    "refunded": 0,
+    "issued": "2026-05-20"
+  },
+  {
+    "id": "t-a20",
+    "legs": [
+      "a20"
+    ],
+    "seats": 11,
+    "refunded": 0,
+    "issued": "2026-05-21"
+  },
+  {
+    "id": "t-b20",
+    "legs": [
+      "b20"
+    ],
+    "seats": 12,
+    "refunded": 3,
+    "issued": "2026-05-21"
+  },
+  {
+    "id": "t-c20",
+    "legs": [
+      "c20"
+    ],
+    "seats": 13,
+    "refunded": 0,
+    "issued": "2026-05-21"
+  },
+  {
+    "id": "x-20",
+    "legs": [
+      "a20",
+      "b20"
+    ],
+    "seats": 5,
+    "refunded": 5,
+    "issued": "2026-05-21"
+  },
+  {
+    "id": "t-a21",
+    "legs": [
+      "a21"
+    ],
+    "seats": 14,
+    "refunded": 0,
+    "issued": "2026-05-22"
+  },
+  {
+    "id": "t-b21",
+    "legs": [
+      "b21"
+    ],
+    "seats": 15,
+    "refunded": 0,
+    "issued": "2026-05-22"
+  },
+  {
+    "id": "t-c21",
+    "legs": [
+      "c21"
+    ],
+    "seats": 16,
+    "refunded": 0,
+    "issued": "2026-05-22"
+  },
+  {
+    "id": "x-21",
+    "legs": [
+      "a21",
+      "b21"
+    ],
+    "seats": 12,
+    "refunded": 0,
+    "issued": "2026-05-22"
+  },
+  {
+    "id": "t-a22",
+    "legs": [
+      "a22"
+    ],
+    "seats": 17,
+    "refunded": 0,
+    "issued": "2026-05-23"
+  },
+  {
+    "id": "t-b22",
+    "legs": [
+      "b22"
+    ],
+    "seats": 18,
+    "refunded": 0,
+    "issued": "2026-05-23"
+  },
+  {
+    "id": "t-c22",
+    "legs": [
+      "c22"
+    ],
+    "seats": 19,
+    "refunded": 0,
+    "issued": "2026-05-23"
+  },
+  {
+    "id": "x-22",
+    "legs": [
+      "a22",
+      "b22"
+    ],
+    "seats": 5,
+    "refunded": 0,
+    "issued": "2026-05-23"
+  },
+  {
+    "id": "t-a23",
+    "legs": [
+      "a23"
+    ],
+    "seats": 20,
+    "refunded": 0,
+    "issued": "2026-05-24"
+  },
+  {
+    "id": "t-b23",
+    "legs": [
+      "b23"
+    ],
+    "seats": 21,
+    "refunded": 0,
+    "issued": "2026-05-24"
+  },
+  {
+    "id": "t-c23",
+    "legs": [
+      "c23"
+    ],
+    "seats": 22,
+    "refunded": 0,
+    "issued": "2026-05-24"
+  },
+  {
+    "id": "x-23",
+    "legs": [
+      "a23",
+      "b23"
+    ],
+    "seats": 12,
+    "refunded": 0,
+    "issued": "2026-05-24"
+  },
+  {
+    "id": "t-a24",
+    "legs": [
+      "a24"
+    ],
+    "seats": 11,
+    "refunded": 0,
+    "issued": "2026-05-25"
+  },
+  {
+    "id": "t-b24",
+    "legs": [
+      "b24"
+    ],
+    "seats": 12,
+    "refunded": 0,
+    "issued": "2026-05-25"
+  },
+  {
+    "id": "t-c24",
+    "legs": [
+      "c24"
+    ],
+    "seats": 13,
+    "refunded": 0,
+    "issued": "2026-05-25"
+  },
+  {
+    "id": "x-24",
+    "legs": [
+      "a24",
+      "b24"
+    ],
+    "seats": 5,
+    "refunded": 0,
+    "issued": "2026-05-25"
+  },
+  {
+    "id": "t-a25",
+    "legs": [
+      "a25"
+    ],
+    "seats": 14,
+    "refunded": 0,
+    "issued": "2026-05-26"
+  },
+  {
+    "id": "t-b25",
+    "legs": [
+      "b25"
+    ],
+    "seats": 15,
+    "refunded": 0,
+    "issued": "2026-05-26"
+  },
+  {
+    "id": "t-c25",
+    "legs": [
+      "c25"
+    ],
+    "seats": 16,
+    "refunded": 0,
+    "issued": "2026-05-26"
+  },
+  {
+    "id": "x-25",
+    "legs": [
+      "a25",
+      "b25"
+    ],
+    "seats": 12,
+    "refunded": 0,
+    "issued": "2026-05-26"
+  },
+  {
+    "id": "t-a26",
+    "legs": [
+      "a26"
+    ],
+    "seats": 17,
+    "refunded": 0,
+    "issued": "2026-05-27"
+  },
+  {
+    "id": "t-b26",
+    "legs": [
+      "b26"
+    ],
+    "seats": 18,
+    "refunded": 0,
+    "issued": "2026-05-27"
+  },
+  {
+    "id": "t-c26",
+    "legs": [
+      "c26"
+    ],
+    "seats": 19,
+    "refunded": 0,
+    "issued": "2026-05-27"
+  },
+  {
+    "id": "x-26",
+    "legs": [
+      "a26",
+      "b26"
+    ],
+    "seats": 5,
+    "refunded": 0,
+    "issued": "2026-05-27"
+  },
+  {
+    "id": "t-a27",
+    "legs": [
+      "a27"
+    ],
+    "seats": 20,
+    "refunded": 0,
+    "issued": "2026-05-28"
+  },
+  {
+    "id": "t-b27",
+    "legs": [
+      "b27"
+    ],
+    "seats": 21,
+    "refunded": 0,
+    "issued": "2026-05-28"
+  },
+  {
+    "id": "t-c27",
+    "legs": [
+      "c27"
+    ],
+    "seats": 22,
+    "refunded": 0,
+    "issued": "2026-05-28"
+  },
+  {
+    "id": "x-27",
+    "legs": [
+      "a27",
+      "b27"
+    ],
+    "seats": 12,
+    "refunded": 0,
+    "issued": "2026-05-28"
+  }
+]

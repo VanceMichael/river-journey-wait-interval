@@ -1,0 +1,37 @@
+[
+  {
+    "section": "queue",
+    "from": "2026-05-01",
+    "to": "2026-05-13",
+    "activity": "queue",
+    "capacity_group": "old"
+  },
+  {
+    "section": "queue",
+    "from": "2026-05-13",
+    "to": "2026-06-01",
+    "activity": "queue",
+    "capacity_group": "shared"
+  },
+  {
+    "section": "scenic",
+    "from": "2026-05-01",
+    "to": "2026-06-01",
+    "activity": "scenic",
+    "capacity_group": null
+  },
+  {
+    "section": "branch",
+    "from": "2026-05-01",
+    "to": "2026-06-01",
+    "activity": "unknown",
+    "capacity_group": null
+  },
+  {
+    "section": "dock",
+    "from": "2026-05-01",
+    "to": "2026-06-01",
+    "activity": "berth",
+    "capacity_group": null
+  }
+]
