@@ -74,6 +74,59 @@
       "day"
     ]
   },
+  "connections": {
+    "fields": [
+      "id",
+      "first",
+      "second",
+      "walk_minutes",
+      "minimum_coverage"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "published_connections": {
+    "fields": [
+      "id",
+      "ticket",
+      "transfer",
+      "earliest",
+      "latest",
+      "sold",
+      "known"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "outcomes": {
+    "fields": [
+      "id",
+      "ticket",
+      "first_board",
+      "minute",
+      "arrival_leg",
+      "arrived_minute",
+      "seen"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "changes": {
+    "fields": [
+      "id",
+      "sailing",
+      "kind",
+      "known",
+      "from_minute",
+      "substitute"
+    ],
+    "key": [
+      "id"
+    ]
+  },
   "advice": {
     "fields": [
       "id",

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "new-x20",
+    "sailing": "b20",
+    "kind": "cancelled",
+    "known": "2026-05-21",
+    "from_minute": 0,
+    "substitute": "c20"
+  },
+  {
+    "id": "new-x24",
+    "sailing": "a24",
+    "kind": "queue-increased",
+    "known": "2026-05-24",
+    "from_minute": 10,
+    "substitute": null
+  }
+]

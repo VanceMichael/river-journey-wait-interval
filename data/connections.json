@@ -1,0 +1,198 @@
+[
+  {
+    "id": "00",
+    "first": "a00",
+    "second": "b00",
+    "walk_minutes": 22,
+    "minimum_coverage": 0.8
+  },
+  {
+    "id": "01",
+    "first": "a01",
+    "second": "b01",
+    "walk_minutes": 15,
+    "minimum_coverage": 0.8
+  },
+  {
+    "id": "02",
+    "first": "a02",
+    "second": "b02",
+    "walk_minutes": 15,
+    "minimum_coverage": 0.8
+  },
+  {
+    "id": "03",
+    "first": "a03",
+    "second": "b03",
+    "walk_minutes": 15,
+    "minimum_coverage": 0.8
+  },
+  {
+    "id": "04",
+    "first": "a04",
+    "second": "b04",
+    "walk_minutes": 22,
+    "minimum_coverage": 0.8
+  },
+  {
+    "id": "05",
+    "first": "a05",
+    "second": "b05",
+    "walk_minutes": 15,
+    "minimum_coverage": 0.8
+  },
+  {
+    "id": "06",
+    "first": "a06",
+    "second": "b06",
+    "walk_minutes": 15,
+    "minimum_coverage": 0.8
+  },
+  {
+    "id": "07",
+    "first": "a07",
+    "second": "b07",
+    "walk_minutes": 15,
+    "minimum_coverage": 0.8
+  },
+  {
+    "id": "08",
+    "first": "a08",
+    "second": "b08",
+    "walk_minutes": 22,
+    "minimum_coverage": 0.8
+  },
+  {
+    "id": "09",
+    "first": "a09",
+    "second": "b09",
+    "walk_minutes": 15,
+    "minimum_coverage": 0.8
+  },
+  {
+    "id": "10",
+    "first": "a10",
+    "second": "b10",
+    "walk_minutes": 15,
+    "minimum_coverage": 0.8
+  },
+  {
+    "id": "11",
+    "first": "a11",
+    "second": "b11",
+    "walk_minutes": 15,
+    "minimum_coverage": 0.8
+  },
+  {
+    "id": "12",
+    "first": "a12",
+    "second": "b12",
+    "walk_minutes": 22,
+    "minimum_coverage": 0.8
+  },
+  {
+    "id": "13",
+    "first": "a13",
+    "second": "b13",
+    "walk_minutes": 15,
+    "minimum_coverage": 0.8
+  },
+  {
+    "id": "14",
+    "first": "a14",
+    "second": "b14",
+    "walk_minutes": 15,
+    "minimum_coverage": 0.8
+  },
+  {
+    "id": "15",
+    "first": "a15",
+    "second": "b15",
+    "walk_minutes": 15,
+    "minimum_coverage": 0.8
+  },
+  {
+    "id": "16",
+    "first": "a16",
+    "second": "b16",
+    "walk_minutes": 22,
+    "minimum_coverage": 0.8
+  },
+  {
+    "id": "17",
+    "first": "a17",
+    "second": "b17",
+    "walk_minutes": 15,
+    "minimum_coverage": 0.8
+  },
+  {
+    "id": "18",
+    "first": "a18",
+    "second": "b18",
+    "walk_minutes": 15,
+    "minimum_coverage": 0.8
+  },
+  {
+    "id": "19",
+    "first": "a19",
+    "second": "b19",
+    "walk_minutes": 15,
+    "minimum_coverage": 0.8
+  },
+  {
+    "id": "20",
+    "first": "a20",
+    "second": "b20",
+    "walk_minutes": 22,
+    "minimum_coverage": 0.8
+  },
+  {
+    "id": "21",
+    "first": "a21",
+    "second": "b21",
+    "walk_minutes": 15,
+    "minimum_coverage": 0.8
+  },
+  {
+    "id": "22",
+    "first": "a22",
+    "second": "b22",
+    "walk_minutes": 15,
+    "minimum_coverage": 0.8
+  },
+  {
+    "id": "23",
+    "first": "a23",
+    "second": "b23",
+    "walk_minutes": 15,
+    "minimum_coverage": 0.8
+  },
+  {
+    "id": "24",
+    "first": "a24",
+    "second": "b24",
+    "walk_minutes": 22,
+    "minimum_coverage": 0.8
+  },
+  {
+    "id": "25",
+    "first": "a25",
+    "second": "b25",
+    "walk_minutes": 15,
+    "minimum_coverage": 0.8
+  },
+  {
+    "id": "26",
+    "first": "a26",
+    "second": "b26",
+    "walk_minutes": 15,
+    "minimum_coverage": 0.8
+  },
+  {
+    "id": "27",
+    "first": "a27",
+    "second": "b27",
+    "walk_minutes": 15,
+    "minimum_coverage": 0.8
+  }
+]

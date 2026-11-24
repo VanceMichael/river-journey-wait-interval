@@ -1,0 +1,29 @@
+[
+  {
+    "id": "c1",
+    "ticket": "x-05",
+    "transfer": "05",
+    "earliest": 192,
+    "latest": 220,
+    "sold": "2026-05-02",
+    "known": "2026-05-02"
+  },
+  {
+    "id": "c2",
+    "ticket": "x-15",
+    "transfer": "15",
+    "earliest": 198,
+    "latest": 236,
+    "sold": "2026-05-12",
+    "known": "2026-05-12"
+  },
+  {
+    "id": "c3",
+    "ticket": "x-20",
+    "transfer": "20",
+    "earliest": 201,
+    "latest": 240,
+    "sold": "2026-05-17",
+    "known": "2026-05-17"
+  }
+]

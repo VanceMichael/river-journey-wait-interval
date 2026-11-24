@@ -1,0 +1,227 @@
+[
+  {
+    "id": "obs-00",
+    "ticket": "x-00",
+    "first_board": "a00",
+    "minute": 530,
+    "arrival_leg": "b00",
+    "arrived_minute": 744,
+    "seen": "2026-05-01"
+  },
+  {
+    "id": "obs-01",
+    "ticket": "x-01",
+    "first_board": "a01",
+    "minute": 539,
+    "arrival_leg": "b01",
+    "arrived_minute": 748,
+    "seen": "2026-05-02"
+  },
+  {
+    "id": "obs-02",
+    "ticket": "x-02",
+    "first_board": "a02",
+    "minute": 539,
+    "arrival_leg": "b02",
+    "arrived_minute": 752,
+    "seen": "2026-05-03"
+  },
+  {
+    "id": "obs-03",
+    "ticket": "x-03",
+    "first_board": "a03",
+    "minute": 530,
+    "arrival_leg": "b03",
+    "arrived_minute": null,
+    "seen": "2026-05-04"
+  },
+  {
+    "id": "obs-04",
+    "ticket": "x-04",
+    "first_board": "a04",
+    "minute": 539,
+    "arrival_leg": "b04",
+    "arrived_minute": 760,
+    "seen": "2026-05-05"
+  },
+  {
+    "id": "obs-05",
+    "ticket": "x-05",
+    "first_board": "a05",
+    "minute": 539,
+    "arrival_leg": "b05",
+    "arrived_minute": 764,
+    "seen": "2026-05-06"
+  },
+  {
+    "id": "obs-06",
+    "ticket": "x-06",
+    "first_board": "a06",
+    "minute": 530,
+    "arrival_leg": "b06",
+    "arrived_minute": 768,
+    "seen": "2026-05-07"
+  },
+  {
+    "id": "obs-07",
+    "ticket": "x-07",
+    "first_board": "a07",
+    "minute": 539,
+    "arrival_leg": "b07",
+    "arrived_minute": 772,
+    "seen": "2026-05-08"
+  },
+  {
+    "id": "obs-08",
+    "ticket": "x-08",
+    "first_board": "a08",
+    "minute": 539,
+    "arrival_leg": "b08",
+    "arrived_minute": 744,
+    "seen": "2026-05-09"
+  },
+  {
+    "id": "obs-09",
+    "ticket": "x-09",
+    "first_board": "a09",
+    "minute": 530,
+    "arrival_leg": "b09",
+    "arrived_minute": 748,
+    "seen": "2026-05-10"
+  },
+  {
+    "id": "obs-10",
+    "ticket": "x-10",
+    "first_board": "a10",
+    "minute": 539,
+    "arrival_leg": "b10",
+    "arrived_minute": 752,
+    "seen": "2026-05-11"
+  },
+  {
+    "id": "obs-11",
+    "ticket": "x-11",
+    "first_board": "a11",
+    "minute": 539,
+    "arrival_leg": "b11",
+    "arrived_minute": 756,
+    "seen": "2026-05-12"
+  },
+  {
+    "id": "obs-12",
+    "ticket": "x-12",
+    "first_board": "a12",
+    "minute": 530,
+    "arrival_leg": "b12",
+    "arrived_minute": 760,
+    "seen": "2026-05-13"
+  },
+  {
+    "id": "obs-13",
+    "ticket": "x-13",
+    "first_board": "a13",
+    "minute": 539,
+    "arrival_leg": "b13",
+    "arrived_minute": 764,
+    "seen": "2026-05-14"
+  },
+  {
+    "id": "obs-14",
+    "ticket": "x-14",
+    "first_board": "a14",
+    "minute": 539,
+    "arrival_leg": "b14",
+    "arrived_minute": 768,
+    "seen": "2026-05-15"
+  },
+  {
+    "id": "obs-15",
+    "ticket": "x-15",
+    "first_board": "a15",
+    "minute": 530,
+    "arrival_leg": "b15",
+    "arrived_minute": null,
+    "seen": "2026-05-16"
+  },
+  {
+    "id": "obs-16",
+    "ticket": "x-16",
+    "first_board": "a16",
+    "minute": 539,
+    "arrival_leg": "b16",
+    "arrived_minute": 744,
+    "seen": "2026-05-17"
+  },
+  {
+    "id": "obs-17",
+    "ticket": "x-17",
+    "first_board": "a17",
+    "minute": 539,
+    "arrival_leg": "b17",
+    "arrived_minute": 748,
+    "seen": "2026-05-18"
+  },
+  {
+    "id": "obs-18",
+    "ticket": "x-18",
+    "first_board": "a18",
+    "minute": 530,
+    "arrival_leg": "b18",
+    "arrived_minute": 752,
+    "seen": "2026-05-19"
+  },
+  {
+    "id": "obs-19",
+    "ticket": "x-19",
+    "first_board": "a19",
+    "minute": 539,
+    "arrival_leg": "b19",
+    "arrived_minute": 756,
+    "seen": "2026-05-20"
+  },
+  {
+    "id": "obs-20",
+    "ticket": "x-20",
+    "first_board": "a20",
+    "minute": 539,
+    "arrival_leg": "b20",
+    "arrived_minute": null,
+    "seen": "2026-05-21"
+  },
+  {
+    "id": "obs-21",
+    "ticket": "x-21",
+    "first_board": "a21",
+    "minute": 530,
+    "arrival_leg": "b21",
+    "arrived_minute": 764,
+    "seen": "2026-05-22"
+  },
+  {
+    "id": "obs-22",
+    "ticket": "x-22",
+    "first_board": "a22",
+    "minute": 539,
+    "arrival_leg": "b22",
+    "arrived_minute": 768,
+    "seen": "2026-05-23"
+  },
+  {
+    "id": "obs-23",
+    "ticket": "x-23",
+    "first_board": "a23",
+    "minute": 539,
+    "arrival_leg": "b23",
+    "arrived_minute": 772,
+    "seen": "2026-05-24"
+  },
+  {
+    "id": "obs-24",
+    "ticket": "x-24",
+    "first_board": "a24",
+    "minute": 530,
+    "arrival_leg": "b24",
+    "arrived_minute": 744,
+    "seen": "2026-05-25"
+  }
+]
