@@ -591,14 +591,14 @@
     "id": "a14-in",
     "sailing": "a14",
     "event": "berth",
-    "minute": 635,
+    "minute": 659,
     "seen": "2026-05-15"
   },
   {
     "id": "b14-out",
     "sailing": "b14",
     "event": "depart",
-    "minute": 675,
+    "minute": 693,
     "seen": "2026-05-15"
   },
   {
@@ -647,7 +647,7 @@
     "id": "b15-out",
     "sailing": "b15",
     "event": "depart",
-    "minute": 675,
+    "minute": 693,
     "seen": "2026-05-16"
   },
   {
@@ -682,14 +682,14 @@
     "id": "a16-in",
     "sailing": "a16",
     "event": "berth",
-    "minute": 635,
+    "minute": 659,
     "seen": "2026-05-17"
   },
   {
     "id": "b16-out",
     "sailing": "b16",
     "event": "depart",
-    "minute": 675,
+    "minute": 693,
     "seen": "2026-05-17"
   },
   {
@@ -766,7 +766,7 @@
     "id": "a18-in",
     "sailing": "a18",
     "event": "berth",
-    "minute": 635,
+    "minute": 659,
     "seen": "2026-05-19"
   },
   {

@@ -1,0 +1,17 @@
+[
+  {
+    "origin": "p-old",
+    "destination": "p-old",
+    "minutes": 15
+  },
+  {
+    "origin": "p-share",
+    "destination": "p-share",
+    "minutes": 13
+  },
+  {
+    "origin": "p-share",
+    "destination": "p-east",
+    "minutes": 24
+  }
+]

@@ -10,6 +10,9 @@ minute/depart 为当天 00:00 后分钟。水域有效区间左闭右开，日�
 - `tickets.json`　联票包含按顺序相连的售票航段，退款席位不必等于全单人数。
 - `zones.json`　水域功能和有效区间。
 - `traffic.json`　日型与通行限制。
+- `routes.json`　路线端点和船型档。
+- `route_walk.json`　上下船使用码头之间需额外的转乘步行时间，精确航次合同以 connections 为准。
+- `remaining_seats.json`　可核实的后续运营班次余位，空值为尚未查实。
 - `connections.json`　售票在首末航段间采用的步行分钟和可承诺最低覆盖率。
 - `published_connections.json`　已售票所附整程到达范围，单位从首段排定发车时刻起计分钟。
 - `outcomes.json`　首段刷票和末段实际抵达分钟。末段空值表示没有确认到达，若次段取消则可判未接。

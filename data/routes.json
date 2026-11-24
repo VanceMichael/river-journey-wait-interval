@@ -1,0 +1,20 @@
+[
+  {
+    "id": "a",
+    "origin": "upstream",
+    "terminal": "transfer",
+    "vessel_class": "small"
+  },
+  {
+    "id": "b",
+    "origin": "transfer",
+    "terminal": "downtown",
+    "vessel_class": "shared"
+  },
+  {
+    "id": "c",
+    "origin": "transfer-east",
+    "terminal": "downtown",
+    "vessel_class": "shared"
+  }
+]

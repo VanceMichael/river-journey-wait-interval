@@ -74,6 +74,39 @@
       "day"
     ]
   },
+  "routes": {
+    "fields": [
+      "id",
+      "origin",
+      "terminal",
+      "vessel_class"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "route_walk": {
+    "fields": [
+      "origin",
+      "destination",
+      "minutes"
+    ],
+    "key": [
+      "origin",
+      "destination"
+    ]
+  },
+  "remaining_seats": {
+    "fields": [
+      "sailing",
+      "known",
+      "seats"
+    ],
+    "key": [
+      "sailing",
+      "known"
+    ]
+  },
   "connections": {
     "fields": [
       "id",

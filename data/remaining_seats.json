@@ -1,0 +1,17 @@
+[
+  {
+    "sailing": "c20",
+    "known": "2026-05-21",
+    "seats": null
+  },
+  {
+    "sailing": "c20",
+    "known": "2026-05-22",
+    "seats": 8
+  },
+  {
+    "sailing": "c24",
+    "known": "2026-05-24",
+    "seats": 0
+  }
+]
